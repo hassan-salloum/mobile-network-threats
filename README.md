@@ -1,19 +1,15 @@
-### Mobile Network Hacking
--------------------------------------------------------------------------------------------------------------------------------
-Mobile Network Hacking is a "theoratical resume" that i created because of my curiosity to learn mobile network hacking.
-This resume is absolutely not  for  beginner, but sure, for  Telecommunication & network  engineer or telecom Pentester.
+# 📡 Mobile Network Hacking  
 
-### What you will learn from it? 
--------------------------------------------------------------------------------------------------------------------------------
-* Do you want to understand SS7, Sigtran, GTP, Diameter protocols ?
-* Do want to learn how to scan mobile network?
-* Do you want to understand mobile network threats ?
-* Do you want to build the attack scenario to these threats?
-* Do you want to deep your knowledge with Osmocom ?
-* Do you want to build GSM, LTE IMSI catcher ?
-* Do you want learn how to detect IMSI catcher? And more !
+**Mobile Network Threats** is a theoretical research project exploring mobile network security and hacking concepts. This repository was created out of curiosity to better understand vulnerabilities in mobile communications.  
 
-*Please not, none of these hacking technique mentioned in this open research tested by myself, it’s up to you to install and take the risk, try to use a faraday cage.*
+## 📖 What You'll Learn  
 
+✔️ Dive into **SS7, Sigtran, GTP, and Diameter** protocols.  
+✔️ Understand key **threats** in mobile network security.  
 
+### 🚀 Advanced Topics (Moved to a Separate Repository)  
 
+🔹 Crafting **attack scenarios** for mobile network vulnerabilities.  
+🔹 Exploring **Osmocom** for network analysis and exploitation.  
+🔹 Building **GSM and LTE IMSI catchers**.  
+🔹 Detecting and mitigating **IMSI catcher attacks**.  
