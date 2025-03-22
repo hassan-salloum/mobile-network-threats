@@ -1,6 +1,6 @@
 # 📡Mobile Network Threats  
 
-**Mobile Network Threats** is a theoretical research project exploring mobile network security and hacking concepts. This repository was created out of curiosity to better understand vulnerabilities in mobile communications.  
+**Mobile Network Threats** is a theoretical research project exploring mobile network security and hacking concepts.
 
 ## 📖What You'll Learn  
 
